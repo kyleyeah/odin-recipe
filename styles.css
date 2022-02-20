@@ -1,0 +1,26 @@
+* {
+    text-decoration: none;
+}
+
+
+img {
+    border-radius: 20px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: max-content;
+}
+
+body {
+    background-color: darkmagenta;
+
+}
+
+h1 {
+    font-size: 3rem;
+    font-family: calibri;
+}
+
+#navbar {
+    position: fixed;
+    margin-left: 30px;
+}
